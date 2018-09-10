@@ -52,6 +52,17 @@ $navbar-default-bg: black;
     margin-top: 0;
 }
 
+.article-title {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.article-body {
+    border-top: 1px solid #eaeaea;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 .btn-xlarge:hover{
     background-color: #8e1515;
     border-color: #8e1515;
