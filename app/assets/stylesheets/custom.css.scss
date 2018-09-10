@@ -43,13 +43,22 @@ $navbar-default-bg: black;
     border-color: #8e1515;
 }
 
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+.description {
+    margin-top: 0;
+}
+
 .btn-xlarge:hover{
     background-color: #8e1515;
     border-color: #8e1515;
 }
 
 footer {
-    margin-top: 45px;
+    margin-top: 250px;
     padding-top: 5px;
     border-top: 1px solid #eaeaea;
     color: #777;
