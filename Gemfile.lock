@@ -163,7 +163,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  pg (~> 0.11)
+  pg (~> 0.18)
   rails (~> 4.2.10)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
