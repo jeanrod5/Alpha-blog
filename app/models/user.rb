@@ -11,4 +11,7 @@ class User < ActiveRecord::Base
                uniqueness: { case_sensitive: false },
                format: { with: VAILD_EMAIL_REGEX }
     has_secure_password
+    
+    acts_as_commontator
+    
 end
